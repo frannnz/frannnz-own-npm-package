@@ -1,11 +1,19 @@
 {
   "name": "frannnz",
   "version": "2.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frannnz/frannnz-own-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frannnz/frannnz-own-npm-package/issues"
+  },
+  "homepage": "https://github.com/frannnz/frannnz-own-npm-package#readme",
+  "description": ""
 }
